@@ -9,4 +9,4 @@
 
 ## Watch the Demo
 
-![Watch the video](https://drive.google.com/file/d/1UvPjfCKOVVPIMe3rcduqN06LeMk1Wky9/view?usp=drive_link)
+![Watch the video](https://drive.google.com/file/d/1UvPjfCKOVVPIMe3rcduqN06LeMk1Wky9/view?usp=sharing)
