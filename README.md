@@ -5,7 +5,8 @@
 <h3>Demo</h3>
 
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1UvPjfCKOVVPIMe3rcduqN06LeMk1Wky9/view?usp=drive_link">
-  </a>
-</p>
+# My Project
+
+## Watch the Demo
+
+![Watch the video](https://drive.google.com/file/d/1UvPjfCKOVVPIMe3rcduqN06LeMk1Wky9/view?usp=drive_link)
